@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mWZJKLd/M7Bb5jZ/F243CY1dr3bldgycZ3Hmvwd+BETOWfKpqlLGdp7b7WES78Jl12NkdMpTr3Lp3FF9PqSwog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\RiderProjects\\Id Provider Demo\\id provider demo\\id provider demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.microsoftaccount\\5.0.4\\microsoft.aspnetcore.authentication.microsoftaccount.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
